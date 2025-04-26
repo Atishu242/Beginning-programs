@@ -5,6 +5,7 @@ This folder includes:
 
 - `hello.py` ➔ First Hello World program
 - `calculator.py` ➔ Mini calculator
+- 'guessing_game.py' -> Number guessing game
 - (more coming soon!)
 
 ---
